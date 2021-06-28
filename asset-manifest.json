@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-conway-life/static/css/main.9441edcf.chunk.css",
+    "main.js": "/react-conway-life/static/js/main.af50c86f.chunk.js",
+    "main.js.map": "/react-conway-life/static/js/main.af50c86f.chunk.js.map",
+    "runtime-main.js": "/react-conway-life/static/js/runtime-main.d0c2f9b4.js",
+    "runtime-main.js.map": "/react-conway-life/static/js/runtime-main.d0c2f9b4.js.map",
+    "static/js/2.2ea7ec91.chunk.js": "/react-conway-life/static/js/2.2ea7ec91.chunk.js",
+    "static/js/2.2ea7ec91.chunk.js.map": "/react-conway-life/static/js/2.2ea7ec91.chunk.js.map",
+    "index.html": "/react-conway-life/index.html",
+    "static/css/main.9441edcf.chunk.css.map": "/react-conway-life/static/css/main.9441edcf.chunk.css.map",
+    "static/js/2.2ea7ec91.chunk.js.LICENSE.txt": "/react-conway-life/static/js/2.2ea7ec91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c2f9b4.js",
+    "static/js/2.2ea7ec91.chunk.js",
+    "static/css/main.9441edcf.chunk.css",
+    "static/js/main.af50c86f.chunk.js"
+  ]
+}
